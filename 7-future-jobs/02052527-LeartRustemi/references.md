@@ -3,9 +3,8 @@
 1. World Economic Forum. (2025). *The Future of Jobs Report 2025*.  
    https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 
-2. U.S. Bureau of Labor Statistics. (2025). *Software Developers, Quality Assurance Analysts, and Testers: Occupational Outlook Handbook*.  
-   https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
-
+2. O*NET Online. Software Quality Assurance Analysts and Testers.
+   https://www.onetonline.org/link/details/15-1253.00
 3. Stack Overflow. (2024). *2024 Developer Survey: AI Tools in the Development Process*.  
    https://survey.stackoverflow.co/2024/ai
 
