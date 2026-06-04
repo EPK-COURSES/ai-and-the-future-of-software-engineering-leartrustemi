@@ -12,7 +12,7 @@ The main question is not only “Will AI replace programmers?” The more import
 
 AI tools are already being used in many parts of software development. Developers can use AI coding assistants to complete code, generate functions, explain errors, create documentation, and suggest test cases. These tools can save time, especially for repetitive or simple tasks.
 
-For example, a developer might ask an AI tool to generate a basic function, explain a piece of unfamiliar code, or help write unit tests. This can make development faster and help programmers learn new concepts more quickly. McKinsey reported that generative AI can help software developers complete some coding tasks much faster, especially tasks such as code generation, documentation, and refactoring.
+For example, a developer might ask an AI tool to generate a basic function, explain unfamiliar code, or help write unit tests. This can make development faster and help programmers learn new concepts more quickly. McKinsey reported that generative AI can help software developers complete some coding tasks faster, especially tasks such as code generation, documentation, and refactoring [5].
 
 Still, AI is not perfect. AI-generated code can contain mistakes, security problems, or logic errors. Sometimes the code looks correct but does not work properly in a real project. Because of this, software engineers must not trust AI blindly. They need to read, test, and understand the code before using it.
 
@@ -20,11 +20,19 @@ Still, AI is not perfect. AI-generated code can contain mistakes, security probl
 
 Some people are worried that AI will replace software engineers completely. This fear is understandable because AI can already perform some tasks that programmers used to do manually. However, the evidence suggests that software engineering jobs are more likely to change than disappear.
 
-The World Economic Forum’s Future of Jobs Report 2025 explains that technology, including AI, will create major changes in the job market. It predicts that many jobs will be displaced, but also that many new roles will be created. This means that workers will need to adapt and learn new skills.
+The World Economic Forum’s Future of Jobs Report 2025 explains that technology, including AI, will create major changes in the job market. It predicts that many jobs will be displaced, but also that many new roles will be created [1]. This means workers will need to adapt and learn new skills instead of depending only on old ways of working.
 
-The U.S. Bureau of Labor Statistics also projects that employment for software developers, quality assurance analysts, and testers will grow from 2024 to 2034. This shows that software development is still expected to be an important career area, even while AI changes how developers work.
+The U.S. Bureau of Labor Statistics projects that employment for software developers, quality assurance analysts, and testers will grow from 2024 to 2034 [2]. This shows that software development is still expected to be an important career area, even while AI changes how developers work.
 
 This means future software engineers may spend less time writing every simple line of code manually and more time checking code quality, designing systems, understanding user needs, improving security, and working with AI tools.
+
+## AI Adoption Among Developers
+
+AI tools are becoming common in software development. The Stack Overflow Developer Survey shows that many developers already use or plan to use AI tools in their development process [3]. This means AI tools are becoming a normal part of programming work, not something rare or optional.
+
+GitHub’s Octoverse 2024 report also shows strong growth in generative AI activity on GitHub [4]. This suggests that developers are not only using AI tools, but also building AI-related software and contributing to AI projects.
+
+GitHub’s Octoverse 2025 also describes AI, agents, and typed languages as major forces changing software development [10]. This shows that software engineering is moving beyond simple code completion. AI agents may increasingly help with larger tasks, issue solving, code review, and workflow support. However, developers will still need to guide these tools and approve the final output.
 
 ## The Future of Junior Developers
 
@@ -55,23 +63,35 @@ AI is also creating new software-related jobs. Some examples include:
 - Prompt engineer
 - AI ethics and governance specialist
 
-These roles show that AI is not only removing tasks. It is also creating new areas of work. GitHub’s Octoverse 2024 report showed strong growth in generative AI projects, which means many developers are now building AI-related software and not only using AI tools.
-
-In the future, software engineers who understand both traditional software engineering and AI systems may have more opportunities.
+These roles show that AI is not only removing tasks. It is also creating new areas of work. The World Economic Forum report discusses how technology will change the skills and roles needed in the future workforce [1]. In the future, software engineers who understand both traditional software engineering and AI systems may have more opportunities.
 
 ## Skills Future Software Engineers Need
 
 Future software engineers will need strong technical and human skills. Technical skills will still matter. Developers still need to understand programming, data structures, algorithms, databases, APIs, testing, cybersecurity, cloud computing, and system design.
 
-However, human skills will become even more important. These include communication, teamwork, creativity, ethical thinking, decision making, and problem solving. AI can generate code, but it does not fully understand human needs, business goals, social impact, or ethical responsibility.
+However, human skills will also become more important. These include communication, teamwork, creativity, ethical thinking, decision making, and problem solving. AI can generate code, but it does not fully understand human needs, business goals, social impact, or ethical responsibility.
 
-Stack Overflow’s 2024 Developer Survey showed that many developers are already using or planning to use AI tools in their development process. This means AI tools are becoming a normal part of software development. Because of this, future engineers should learn how to use AI responsibly instead of ignoring it.
+The OECD explains that AI will change the demand for skills in the labour market, even for workers who do not need to become AI specialists [8]. This means software engineers should not only learn AI tools, but also improve the deeper skills that help them adapt when technology changes.
+
+## AI and Software Delivery
+
+AI can improve productivity, but faster coding does not automatically mean better software. The DORA research on software delivery explains that AI can bring benefits, but teams still need strong engineering practices such as testing, small changes, and stable delivery processes [6].
+
+This is important because software engineering is not only about writing code. It is also about delivering reliable software. If a team uses AI to generate code quickly but does not review or test it properly, the project may become harder to maintain. Future engineers will need to balance speed with quality.
+
+## AI in the Workplace
+
+AI is also changing the general workplace, not only software engineering. The Microsoft and LinkedIn Work Trend Index reported that generative AI is already widely used by knowledge workers [7]. This shows that AI is becoming a normal work tool in many industries.
+
+For software engineers, this means AI skills may become part of normal professional expectations. Just like developers are expected to know Git, testing, and documentation, future developers may also be expected to know how to use AI responsibly in their workflow.
 
 ## Risks and Challenges
 
 There are also risks in the future of software engineering jobs. One risk is overdependence on AI. If developers rely too much on AI, they may lose the ability to solve problems independently. Another risk is that AI-generated code may introduce bugs or security vulnerabilities.
 
 There are also concerns about copyright, privacy, and responsibility. If an AI tool generates code that causes a problem, the human developer and the company are still responsible for the final product. This is why software engineers must understand the code they ship.
+
+The NIST AI Risk Management Framework explains that AI systems should be designed and evaluated with trustworthiness, safety, security, accountability, transparency, privacy, and fairness in mind [9]. These ideas are important for software engineers because future developers may not only build normal applications, but also systems that use AI.
 
 Another challenge is technical debt. AI can generate code quickly, but fast code is not always good code. Poorly reviewed AI-generated code can make projects harder to maintain in the future.
 
@@ -82,3 +102,4 @@ The future of software engineering jobs is not simply about AI replacing program
 Software engineers who only depend on writing simple code may face more challenges in the future. However, engineers who understand systems, users, security, teamwork, and AI tools will remain valuable.
 
 In conclusion, AI will change what software engineers do, but it will not remove the need for software engineers. The future belongs to engineers who can use AI as a helpful tool while still relying on their own knowledge, judgment, creativity, and continuous learning.
+
